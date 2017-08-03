@@ -1,0 +1,16 @@
+{
+  "name": "sticky_board",
+  "version": "1.0.0",
+  "description": "Post images for others to see.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ParaDrop Team",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.3",
+    "express-fileupload": "^0.1.4"
+  }
+}
